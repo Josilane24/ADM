@@ -44,7 +44,7 @@ echo
 echo "1) Instalar servidor FTP."
 echo "2) Habilitar acesso anônimo."
 echo "3) Dasabilitar acesso anônimo."
-echo "4) Habilitar envio/escrita de arquivos."
+echo "4) Habilitar OIIIIIIIIIIIIIIIIIIIIIIenvio/escrita de arquivos."
 echo "5) Desabilitar envio/escrita de arquivos."
 echo "6) Desinstalar servidor FTP."
 echo "7) Sair."
